@@ -23,7 +23,7 @@ export default function Index() {
     <section className="w-full bg-white min-h-screen flex flex-col">
       <nav className="flex items-center space-x-2 p-4">
         <AppLogo className="h-8 w-8 md:h-10 md:w-10" />
-        <h1 className="text-xl font-semibold text-zinc-900">Gitposter</h1>
+        <h1 className="text-xl font-semibold text-zinc-900">Githelp</h1>
       </nav>
       <div className="container md:flex justify-center items-center px-4 md:px-6 flex-1">
         <div className="flex flex-col items-center space-y-4 text-center p-4 md:w-1/2">
@@ -37,7 +37,7 @@ export default function Index() {
 
           <p className="text-gray-500 mt-2">
             Powered by{" "}
-            <span className="text-blue-700 font-bold mt-2">Remix</span> and{" "}
+            <span className="text-blue-700 font-bold mt-2">Lupleg</span> and{" "}
             <span className="text-green-700 font-bold mt-2">Supabase</span>
           </p>
 

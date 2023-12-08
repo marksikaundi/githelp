@@ -49,7 +49,7 @@ export default function Home() {
       <nav className="sticky top-0 bg-white z-50 flex w-full items-center justify-between p-4 border-b border-zinc-200 flex-wrap md:flex-nowrap">
         <Link to="/" className="flex items-center space-x-2">
           <AppLogo className="h-8 w-8 md:h-10 md:w-10" />
-          <h1 className="text-xl font-semibold text-zinc-900 ">Gitposter</h1>
+          <h1 className="text-xl font-semibold text-zinc-900 ">Githelp</h1>
         </Link>
         <button onClick={() => setNavOpen(!isNavOpen)} className="md:hidden">
           {isNavOpen ? <Cross2Icon /> : <HamburgerMenuIcon />}

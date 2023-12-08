@@ -38,7 +38,7 @@ export default function Login() {
         <Link to="/">
           <AppLogo className="h-8 w-8 md:h-10 md:w-10" />
         </Link>
-        <h1 className="text-xl font-semibold text-zinc-900">Gitposter</h1>
+        <h1 className="text-xl font-semibold text-zinc-900">Githelp</h1>
       </nav>
       <div className="container flex flex-col justify-start items-center px-4 md:px-6 flex-1 mt-24">
         <div className="flex flex-col items-center space-y-4 text-center p-4">
